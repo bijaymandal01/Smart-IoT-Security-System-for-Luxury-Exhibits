@@ -2,8 +2,8 @@
 // WiFi Credentials
 const char* ssid     = "SSID";   // WiFi SSID
 const char* password = "password";   // WiFi Password
-String token = "8135804780:AAEfDcQ753fxLOr9s523ECg8BffOrZbJCn8";  // Telegram Bot Token
-String chat_id = "6587173346";  // Telegram Chat ID
+String token = "8135804780:AAEfDcQ753fxtgh9s523ECg8BffOrZbJCn8";  // Telegram Bot Token
+String chat_id = "6587145346";  // Telegram Chat ID
 
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
