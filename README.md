@@ -168,7 +168,7 @@ If WiFi drops at the exact moment the alarm triggers, the photo alert is silentl
 
 **1. Clone the repo**
 ```bash
-git clone https://github.com/your-username/luxguard-iot.git
+git clone https://github.com/bijaymandal01/Smart-IoT-Security-System-for-Luxury-Exhibits.git
 ```
 
 **2. Add your credentials** in `main.ino`
